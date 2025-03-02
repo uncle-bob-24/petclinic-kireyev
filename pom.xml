@@ -4,13 +4,13 @@
 
   <parent>
     <groupId>org.springframework.boot</groupId>
-    <artifactId>petclinic-kireyev</artifactId>
+    <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.4.2</version>
     <relativePath></relativePath>
   </parent>
 
   <groupId>org.springframework.samples</groupId>
-  <artifactId>spring-petclinic</artifactId>
+  <artifactId>petclinic-kireyev</artifactId>
   <version>3.4.0-SNAPSHOT</version>
 
   <name>petclinic</name>
